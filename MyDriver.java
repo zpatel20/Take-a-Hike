@@ -2,8 +2,6 @@
  * MyDriver.java
  *     Driver for UIC CS 342 Fall 2016 program #2: Take a Hike
  *
- * @author: Dale Reed
- * @date: 09/21/2016
  *
  * Given an row x col grid of integers where each integer represents the average elevation for one square mile
  * on a map, find the path from one side to the other that gives the lowest total elevation change.
